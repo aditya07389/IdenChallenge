@@ -1,0 +1,12 @@
+# Ignore generated data and session files
+
+auth_state.json
+
+.vscode/
+
+# Ignore Python's cache directory
+__pycache__/
+
+# Ignore virtual environment folders (optional but good practice)
+venv/
+.venv/
